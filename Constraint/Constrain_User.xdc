@@ -1,6 +1,6 @@
 #LED
 set_property -dict {PACKAGE_PIN AG14 IOSTANDARD LVCMOS33} [get_ports led_8bits_tri_o[0]] #GPIO_LED_0
-set_property -dict {PACKAGE_PIN AF13 IOSTANDARD L¥CMOS33} [get_ports led_8bits_tri_o[1]] #GPIO_LED_1
+set_property -dict {PACKAGE_PIN AF13 IOSTANDARD LÂ¥CMOS33} [get_ports led_8bits_tri_o[1]] #GPIO_LED_1
 set_property -dict {PACKAGE_PIN AE13 IOSTANDARD LVCMOS33} [get_ports led_8bits_tri_o[2]] #GPIO_LED_2
 set_property -dict {PACKAGE_PIN AJ14 IOSTANDARD LYCMOS33} [get_ports led_8bits_tri_o[3]] #GPIO_LED_3
 set_property -dict {PACKAGE_PIN AJ15 IOSTANDARD LVCMOS33} [get_ports led_8bits_tri_o[4]] #GPIo LED_4
